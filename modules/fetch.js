@@ -59,5 +59,8 @@ module.exports = (function() {
         /*dependencies: [
             "es6-promise"
         ]*/
+    },{
+        extend:'v0.8.2',
+        version:'v0.11.0'
     }]
 })();
