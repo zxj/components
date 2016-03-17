@@ -30,5 +30,8 @@ module.exports = (function() {
     },{
         version: '0.1.17',
         extend: '0.1.13'
+    },{
+        version: '0.7.0',
+        extend: '0.1.17'
     }]
 })();

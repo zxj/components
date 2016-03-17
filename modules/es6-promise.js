@@ -21,5 +21,8 @@ module.exports = (function() {
                 release: false
             }
         ]
+    },{
+        extend:'v3.1.2',
+        version:'v3.2.1'
     }]
 })();

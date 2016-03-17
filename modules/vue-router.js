@@ -24,5 +24,8 @@ module.exports = (function() {
                 release: false
             }
         ]
+    },{
+        version: '0.7.11',
+        extend: '0.7.7'
     }]
 })();
